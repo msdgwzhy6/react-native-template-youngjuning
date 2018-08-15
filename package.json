@@ -1,0 +1,18 @@
+{
+  "name": "react-native-template-youngjuning",
+  "version": "0.1.0",
+  "description": "template for React Native",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngjuning/react-native-template-youngjuning.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "杨俊宁",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngjuning/react-native-template-youngjuning/issues"
+  },
+  "homepage": "https://github.com/youngjuning/react-native-template-youngjuning#readme"
+}
